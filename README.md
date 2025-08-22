@@ -1,6 +1,6 @@
-# 🚀 Next.js Project
+## Safe shop
 
-## 📌 Project Description
+#Project Description
 This is a **Next.js** application built with modern tools and best practices.  
 It includes:
 - **Authentication** with NextAuth.js (Credentials provider).
