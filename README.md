@@ -18,7 +18,7 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 
-### 2 install
+###2 install
 npm install
 
 ### 3 Create a .env.local file in the root of your project:
@@ -27,6 +27,10 @@ NEXTAUTH_URL=http://localhost:3000
 MONGODB_URI=your-mongodb-connection-string
 
 
-### 4 Run the development server
+###4 Run the development server
 
 npm run dev
+
+##Routes  summary:
+
+Home,products,product details,signup
